@@ -184,4 +184,4 @@ MIT © Leon van Zijl
 1. [Grouped Bar Chart - Mike Bostock](https://bl.ocks.org/mbostock/3887051)
 2. [Inspiration](https://bost.ocks.org/mike/nations/)
 3. [Dataset](http://www.ois.amsterdam.nl/feiten-en-cijfers/amsterdam/bevolking/)
-4. [cover]: preview.png
+[cover]: preview.png

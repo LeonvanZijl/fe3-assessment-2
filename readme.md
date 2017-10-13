@@ -3,7 +3,7 @@
 ![][cover]
 
 ## **Github Page**
-[Github Page](https://leonvanzijl.github.io/fe3-assessment-1/)
+[Github Page](https://leonvanzijl.github.io/fe3-assessment-2/)
 
 ## **Short description**
 Creating an interactive datavisualisation from either clean or dirty data.
